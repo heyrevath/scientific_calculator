@@ -1,0 +1,24 @@
+Add, sub, multiply, divide, and mod (%) operations on entered integer or floating type numbers.
+Square root, exponent (power (a, b))
+Sine, cosine, and tangent (Trigonometric functions).
+Conversion from radian to degree and degree to radian.
+
+Above listed operations user can perform as many numbers of times until user hits the exit.
+
+Math Module Description Link
+
+https://www.w3schools.com/python/module_math.asp
+
+Addition substraction division multiplication mod
+
+math.sqrt() Returns the square root of a number
+math.exp() Returns E raised to the power of x
+
+math.sin() Returns the sine of a number
+math.cos() Returns the cosine of a number
+math.tan() Returns the tangent of a number
+
+math.degrees() Converts an angle from radians to degrees
+math.radians() Converts a degree value into radians
+
+using eval( ) function we can accept both int and float inputs from user
