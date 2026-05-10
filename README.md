@@ -1,4 +1,4 @@
-Python Scientific Calculator (CLI)
+**Python Scientific Calculator (CLI)**
 
 Overview
 
