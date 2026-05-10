@@ -1,6 +1,17 @@
-Python Scientific Calculator (CLI)
+🧮 Python Scientific Calculator (CLI)
 
-Overview
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3.x-blue?style=for-the-badge&logo=python" />
+  <img src="https://img.shields.io/badge/CLI-Application-green?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Status-Completed-success?style=for-the-badge" />
+</p>
+<p align="center">
+  A beginner-friendly scientific calculator developed in Python as part of a classroom assessment activity.
+</p>
+
+⸻
+
+📌 Overview
 
 A Python command-line scientific calculator developed as part of a classroom assessment activity. The project demonstrates the use of Python fundamentals including loops, conditional statements, functions, exception handling, and the built-in math module to perform arithmetic, trigonometric, exponentiation, and angle conversion operations.
 
@@ -14,7 +25,7 @@ This project was later improved to enhance:
 
 ⸻
 
-Features
+✨ Features
 
 Arithmetic Operations
 
@@ -47,14 +58,14 @@ Additional Improvements
 
 ⸻
 
-Technologies Used
+🛠 Technologies Used
 
 * Python 3
 * Python math module
 
 ⸻
 
-Concepts Demonstrated
+📚 Concepts Demonstrated
 
 * Loops (while)
 * Conditional statements (if-elif)
@@ -66,7 +77,7 @@ Concepts Demonstrated
 
 ⸻
 
-Project Structure
+📂 Project Structure
 
 scientific-calculator-cli/
 │
@@ -77,7 +88,7 @@ scientific-calculator-cli/
 
 ⸻
 
-Installation & Usage
+🚀 Installation & Usage
 
 Clone Repository
 
@@ -93,7 +104,7 @@ python main.py
 
 ⸻
 
-Sample Operations
+🔢 Sample Operations
 
 1 - Addition
 2 - Subtraction
@@ -110,7 +121,7 @@ Sample Operations
 
 ⸻
 
-Sample Output
+💻 Sample Output
 
 ==============================
  SCIENTIFIC CALCULATOR
@@ -122,7 +133,7 @@ Select any operation
 
 ⸻
 
-Learning Outcome
+🎯 Learning Outcome
 
 This project helped strengthen understanding of:
 
@@ -134,7 +145,7 @@ This project helped strengthen understanding of:
 
 ⸻
 
-Future Improvements
+🚧 Future Improvements
 
 Possible future enhancements include:
 
@@ -147,6 +158,6 @@ Possible future enhancements include:
 
 ⸻
 
-Author
+👨‍💻 Author
 
 Revath
