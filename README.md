@@ -1,163 +1,94 @@
-🧮 Python Scientific Calculator (CLI)
+Scientific Calculator in Python
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3.x-blue?style=for-the-badge&logo=python" />
-  <img src="https://img.shields.io/badge/CLI-Application-green?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Status-Completed-success?style=for-the-badge" />
-</p>
-<p align="center">
-  A beginner-friendly scientific calculator developed in Python as part of a classroom assessment activity.
-</p>
+Description
+
+This is a simple command-line scientific calculator developed using Python as part of a classroom activity during my B.Tech studies.
+
+The calculator can perform basic arithmetic operations and some scientific calculations using Python’s built-in math module.
 
 ⸻
 
-📌 Overview
-
-A Python command-line scientific calculator developed as part of a classroom assessment activity. The project demonstrates the use of Python fundamentals including loops, conditional statements, functions, exception handling, and the built-in math module to perform arithmetic, trigonometric, exponentiation, and angle conversion operations.
-
-This project was later improved to enhance:
-
-* Code readability
-* Input validation
-* Error handling
-* Program structure
-* Overall user experience
-
-⸻
-
-✨ Features
-
-Arithmetic Operations
+Features
 
 * Addition
 * Subtraction
 * Multiplication
 * Division
 * Modulus (%)
-
-Scientific Operations
-
 * Square Root
-* Exponentiation / Power
+* Exponent / Power
 * Sine Function
 * Cosine Function
 * Tangent Function
+* Degree to Radian Conversion
+* Radian to Degree Conversion
 
-Angle Conversion
-
-* Degree to Radian
-* Radian to Degree
-
-Additional Improvements
-
-* Continuous execution until user exits
-* Improved terminal interface
-* Better code organization
-* Exception handling for invalid inputs
-* Safer input handling
+The program keeps running until the user chooses to exit.
 
 ⸻
 
-🛠 Technologies Used
+Technologies Used
 
-* Python 3
-* Python math module
+* Python
+* Math Module
 
 ⸻
 
-📚 Concepts Demonstrated
+Concepts Used
 
-* Loops (while)
-* Conditional statements (if-elif)
+* Loops
+* Conditional Statements
 * Functions
-* Exception handling
-* Mathematical computations
-* User input handling
-* Command-line interface (CLI) programming
+* User Input
+* Python Math Module
 
 ⸻
 
-📂 Project Structure
+How to Run
 
-scientific-calculator-cli/
-│
-├── main.py
-├── operations.py
-├── README.md
-└── requirements.txt
-
-⸻
-
-🚀 Installation & Usage
-
-Clone Repository
+1. Clone the repository
 
 git clone https://github.com/heyrevath/scientific_calculator.git
 
-Navigate to Project Folder
+2. Open the project folder
 
 cd scientific_calculator
 
-Run the Program
+3. Run the Python file
 
 python main.py
 
 ⸻
 
-🔢 Sample Operations
+Sample Menu
 
 1 - Addition
 2 - Subtraction
 3 - Multiplication
 4 - Division
-5 - Modulus
+5 - Mod
 6 - Square Root
 7 - Exponent
-8 - Sine
-9 - Cosine
-10 - Tangent
-11 - Degree to Radian
-12 - Radian to Degree
+8 - Sin
+9 - Cos
+10 - Tan
+11 - Radian
+12 - Degree
 
 ⸻
 
-💻 Sample Output
+Learning Outcome
 
-==============================
- SCIENTIFIC CALCULATOR
-==============================
-Select any operation
-1st number : 5
-2nd number : 3
-5 + 3 = 8
+This project helped me understand:
 
-⸻
-
-🎯 Learning Outcome
-
-This project helped strengthen understanding of:
-
-* Python programming fundamentals
-* Mathematical operations using Python
-* Building interactive CLI applications
-* Writing structured and maintainable code
-* Improving beginner projects through refactoring
+* Python basics
+* Working with loops and conditions
+* Using the math module
+* Taking user input
+* Building a simple CLI application
 
 ⸻
 
-🚧 Future Improvements
-
-Possible future enhancements include:
-
-* GUI version using Tkinter or PyQt
-* Web-based calculator version
-* Graph plotting support
-* Calculation history tracking
-* Advanced scientific operations
-* Cloud-hosted version with analytics
-
-⸻
-
-👨‍💻 Author
+Author
 
 Revath
