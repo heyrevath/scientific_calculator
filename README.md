@@ -1,4 +1,4 @@
-**Python Scientific Calculator (CLI)**
+Python Scientific Calculator (CLI)
 
 Overview
 
@@ -63,6 +63,33 @@ Concepts Demonstrated
 * Mathematical computations
 * User input handling
 * Command-line interface (CLI) programming
+
+⸻
+
+Project Structure
+
+scientific-calculator-cli/
+│
+├── main.py
+├── operations.py
+├── README.md
+└── requirements.txt
+
+⸻
+
+Installation & Usage
+
+Clone Repository
+
+git clone https://github.com/heyrevath/scientific_calculator.git
+
+Navigate to Project Folder
+
+cd scientific_calculator
+
+Run the Program
+
+python main.py
 
 ⸻
 
